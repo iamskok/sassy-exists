@@ -1,0 +1,7 @@
+@function se-exists($name, $type, $config: $se) {
+	@if not not index($config, $type) {
+    	@return call(#{$type}-exists, $name);
+	} @else {
+		@return false;
+	}
+}
