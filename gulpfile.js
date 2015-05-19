@@ -3,7 +3,7 @@ var	sass 			= require('gulp-ruby-sass');
 
 
 gulp.task('default', function() {
-	return sass('./_sassy-exists.scss', {
+	return sass('./stylesheets/_sassy-exists.scss', {
     		style: 'expanded',
     		precision: 10,
         	lineNumbers : true
