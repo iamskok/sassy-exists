@@ -1,0 +1,27 @@
+{
+  "name": "sassy-exists",
+  "version": "0.1.0",
+  "description": "SASS micro library for existance checks",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SassySuit/sassy-exists.git"
+  },
+  "keywords": [
+    "SASS",
+    "CSS"
+  ],
+  "author": "Skok Vova <skok@vova.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SassySuit/sassy-exists/issues"
+  },
+  "homepage": "https://github.com/SassySuit/sassy-exists#readme",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-ruby-sass": "^1.0.5"
+  }
+}
