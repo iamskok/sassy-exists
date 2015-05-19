@@ -1,0 +1,5 @@
+{
+  "name": "sassy-exists",
+  "description": "Micro library for existance checks",
+  "tags": ["utility", "helper"]
+}
