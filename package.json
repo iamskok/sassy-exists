@@ -12,7 +12,10 @@
   },
   "keywords": [
     "SASS",
-    "CSS"
+    "CSS",
+    "scss",
+    "helper",
+    "utility"
   ],
   "author": "Skok Vova <skok@vova.io>",
   "license": "ISC",

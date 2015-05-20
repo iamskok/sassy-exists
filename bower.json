@@ -8,7 +8,10 @@
   "main": "_sassy-exists.scss",
   "keywords": [
     "SASS",
-    "CSS"
+    "CSS",
+    "scss",
+    "helper",
+    "utility"
   ],
   "license": "MIT",
   "ignore": [
