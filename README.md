@@ -2,12 +2,22 @@
 
 `sassy-exists` is SASS micro library for existance checks. 
 
-# Requirments 
+## Installation
+
+With `git`:
+
+    git clone git@github.com:SassySuit/sassy-exists.git ./
+
+With `bower`:
+
+    bower install sassy-exists --save-dev
+
+## Requirments 
 
 * `gulp`
 * SASS `3.4.13`
 
-# Usage
+## Usage
 
 `sassy-exists` provides alternative syntax for these functions:
 
