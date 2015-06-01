@@ -1,6 +1,6 @@
 # sassy-exists
 
-`sassy-exists` is SASS micro library for existance checks. 
+`sassy-exists` is Sass micro library for existance checks. 
 
 ## Installation
 
@@ -15,7 +15,7 @@ With `bower`:
 ## Requirments 
 
 * `gulp`
-* SASS `3.4.13`
+* Sass `3.4.13`
 
 ## Usage
 
