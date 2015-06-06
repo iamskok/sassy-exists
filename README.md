@@ -1,37 +1,51 @@
-# sassy-exists
+# Sassy-exists
 
-`sassy-exists` is Sass micro library for existance checks. 
+Sassy-exists is Sass micro library for existance checks. 
+
+__### Make sure that feature exists first !__
+
+## Documentation
+
+Sassy-exists [Official Documentation](http://sassysuit.github.io/sassy-exists/)
 
 ## Installation
 
-With `git`:
+_Git_:
 
-    git clone git@github.com:SassySuit/sassy-exists.git ./
+```
+git clone git@github.com:SassySuit/sassy-exists.git ./
+```
 
-With `bower`:
+_Bower_:
 
-    bower install sassy-exists --save-dev
+```
+bower install sassy-exists --save-dev
+```
 
-## Requirments 
+## Requirements
 
-* `gulp`
-* Sass `3.4.13`
+Sassy-exists relies on `feature-detection` Sass functions which are avaliable with:
+
+* Ruby Sass `v3.3` and higher 
+* LibSass `v3.1` and higher
 
 ## Usage
 
-`sassy-exists` provides alternative syntax for these functions:
+Sassy-exists provides alternative syntax for:
 
 * `variable-exists($name)` 
 * `global-variable-exists($name)` 
-* `feature-exists($name)` 
-* `mixin-exists($name)` 
 * `function-exists($name)` 
+* `mixin-exists($name)` 
+* `feature-exists($name)` 
 
-With `sassy-exists` it becomes:
+With _Sassy-exists_ it becomes:
 
-    exists($name, $type)
+```
+exists($name, $type)
+```
 
-`$type` values are: 
+Where `$type` values are: 
 
 * `variable`
 * `global-variable`
