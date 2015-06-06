@@ -2,7 +2,7 @@
 
 Sassy-exists is Sass micro library for existance checks. 
 
-### __Make sure that feature exists first !__
+It is a handy addition for every Sass project which can't afford to have doubts.
 
 ## Documentation
 
