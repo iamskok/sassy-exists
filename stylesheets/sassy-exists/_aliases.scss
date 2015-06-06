@@ -1,3 +1,0 @@
-@function exists($name, $type, $config: $se) {
-	@return se-exists($name, $type, $config: $se);
-}
