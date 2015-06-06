@@ -1,3 +1,18 @@
+///
+/// Check weather a feature exists.
+///
+/// @alias se-exists
+///
+/// @requires {function} se-exists - check weather a feature exists
+///
+/// @param
+///	{string} $name - name of feature to check
+///	{string} $type - type of feature to look for
+///	{list} $config - possible feature types
+///
+/// @return {bool}
+///
+
 @function exists($name, $type, $config: $se) {
 	@return se-exists($name, $type, $config: $se);
 }

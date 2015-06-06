@@ -1,1 +1,7 @@
-$se: 'variable' 'global-variable' 'function' 'feature' 'mixin' !global;
+///
+/// Global configuration with all posible check options.
+///
+/// @type {list}
+///
+
+$se: ('variable', 'global-variable', 'function', 'feature', 'mixin');

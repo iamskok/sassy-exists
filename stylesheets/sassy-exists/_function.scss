@@ -1,3 +1,16 @@
+///
+/// Check weather a feature exists.
+///
+/// @requires {list} $se - global configuration for `se-exists`
+///
+/// @param
+///	{string} $name - name of feature to check
+///	{string} $type - type of feature to look for
+///	{list} $config - possible feature types
+///
+/// @return {bool}
+///
+
 @function se-exists($name, $type, $config: $se) {
 	@if not not index($config, $type) {
     	@return call(#{$type}-exists, $name);
