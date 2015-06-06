@@ -1,6 +1,6 @@
 # Sassy-exists
 
-Sassy-exists is Sass micro library for existance checks. 
+Sassy-exists is Sass micro library for existence checks. 
 
 It is a handy addition for every Sass project which can't afford to have doubts.
 
