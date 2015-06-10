@@ -3,6 +3,7 @@
   "version": "0.2.0",
   "description": "SASS micro library for existance checks",
   "main": "gulpfile.js",
+  "eyeglass": "eyeglass-exports.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,7 +16,8 @@
     "CSS",
     "scss",
     "helper",
-    "utility"
+    "utility",
+    "eyeglass-module"
   ],
   "author": "Skok Vova <skok@vova.io>",
   "license": "ISC",
