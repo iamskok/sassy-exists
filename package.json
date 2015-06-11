@@ -1,7 +1,7 @@
 {
   "name": "sassy-exists",
   "version": "0.2.0",
-  "description": "SASS micro library for existance checks",
+  "description": "Sass micro library for existance checks",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/SassySuit/sassy-exists.git"
   },
   "keywords": [
-    "SASS",
+    "Sass",
     "CSS",
     "scss",
     "helper",

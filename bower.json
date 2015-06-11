@@ -4,10 +4,10 @@
   "authors": [
     "Vova Skok <skok@vova.io>"
   ],
-  "description": "SASS micro library for existance checks",
+  "description": "Sass micro library for existance checks",
   "main": "_sassy-exists.scss",
   "keywords": [
-    "SASS",
+    "Sass",
     "CSS",
     "scss",
     "helper",
