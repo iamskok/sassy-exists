@@ -6,7 +6,7 @@ It is a handy addition for every Sass project which can't afford to have doubts.
 
 ## Documentation
 
-Sassy-exists [Official Documentation](http://sassysuit.github.io/sassy-exists/)
+Sassy-exists [documentation](http://iamskok.github.io/sassy-exists/)
 
 ## Usage
 
