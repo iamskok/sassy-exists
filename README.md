@@ -1,6 +1,6 @@
 # Sassy-exists
 
-Sass library for entity existence checks.
+Sass entity check library.
 
 ## Documentation
 
